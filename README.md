@@ -17,7 +17,6 @@ This project is a custom email application that allows users to send and receive
 
 ### Receiving Email (POP3)
 <img width="594" alt="pop3-1" src="https://github.com/user-attachments/assets/a0df45ab-d2bf-454d-8c32-8568a769690a">
-<img width="594" alt="pop3-2" src="https://github.com/user-attachments/assets/931f63b8-afc6-41a2-b9d2-6f12dae7dc5e">
 
 ## Installation
 
