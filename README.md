@@ -1,7 +1,7 @@
 # SMTP and POP3 Email App
 
 ## Introduction
-This project is a custom email application that allows users to send and receive emails using the SMTP and POP3 protocols in Python. It uses a simple graphical interface built with Tkinter to provide functionality for sending emails via SMTP and checking emails via POP3.
+This project is a custom email application that allows users to send and receive emails using the SMTP and POP3 protocols in Python. It features a simple graphical interface built with Tkinter for interacting with email services.
 
 ## Features
 - **Send emails** using SMTP
